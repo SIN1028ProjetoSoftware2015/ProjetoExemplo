@@ -13,7 +13,7 @@ Prerequisitos:
 - Trabalho em Equipe e proatividade.
 
 Aulas
-- Todas as tercas aula presencial com chamada as 19:20 e 22:30. Nao estando nesse horario sera considerado falta. Lembrando que uma noite de aula sao 4 presencas.
+- Todas as tercas aula presencial com chamada as 19:20 e 22:10. Nao estando nesse horario sera considerado falta. Lembrando que uma noite de aula sao 4 presencas.
 - Todo o material sera colocado no github
 - Toda aula havera uma reuniao do tipo scrum com a participacao de todos.
 
