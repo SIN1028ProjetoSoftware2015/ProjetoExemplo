@@ -1,0 +1,3 @@
+Sistema de Visualizacao de Projetos de Extensao
+
+O sistema devera ser capaz de importar dados (CSV o Excel) e tratar os mesmos fornecendo uma visualizacao dinamica dos projetos de extensao desenvolvidos na UFSM. A visualizacao devera fornecer informacoes para a tomada de decisao (quais sao as areas com maior demanda, locais e publico de abrangencia, etc). 

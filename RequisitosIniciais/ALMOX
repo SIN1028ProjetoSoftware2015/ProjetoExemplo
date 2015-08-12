@@ -1,0 +1,3 @@
+Sistema de Gerenciamento de Patrimonio
+
+Atualmente, o sistema da UFSM gera relatorios com a lista de patrimonios de cada departamento. No entanto, eh preciso fazer um controle do local onde o patrimonio encontra-se (Bloco e Sala). O Sistema devera importar os dados (CSV ou excel) e possibilitar o gerenciamento do local para cada um dos itens do patrimonio.
